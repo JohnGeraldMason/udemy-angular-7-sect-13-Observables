@@ -1,5 +1,7 @@
 # Understanding Observables
 
+![image](https://user-images.githubusercontent.com/2049888/53375180-dd912080-3930-11e9-95df-2237650eb313.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
